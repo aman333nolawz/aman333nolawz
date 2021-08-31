@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aman333nolawz
-- 👀 I’m interested in python, web development, ML
+- 👀 I’m interested in python, web development, ML & game development(pygame)
 - 🌱 I’m currently learning Web Development & ML
 
 <!---
