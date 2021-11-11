@@ -4,3 +4,7 @@
 
 [![aman333nolawz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman333nolawz&hide_border=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![aman333nolawz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman333nolawz&hide_border=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![aman333nolawz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman333nolawz&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
