@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @aman333nolawz
-- 👀 I’m interested in python, web development, ML & game development(pygame)
-- 🌱 I’m currently learning Web Development & ML
+- 👀 I’m interested in python, web development, ML, Cybersecurity & game development(pygame)
+- 🌱 I’m currently learning Cybersecurity
 
-<!---
-aman333nolawz/aman333nolawz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![aman333nolawz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman333nolawz)](https://github.com/anuraghazra/github-readme-stats)
+
