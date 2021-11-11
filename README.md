@@ -7,7 +7,7 @@
 <p align="left"> 
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
 	<img src="https://img.icons8.com/ios-glyphs/60/4a90e2/css3.png" width="30"/>
-	<img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/96/fa314a/console.png" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/4a90e2/html-5--v2.png" width="30"/>
 	<img src="https://img.icons8.com/ios-glyphs/50/fa314a/javascript.png" width="30"/>
 	<img src="https://img.icons8.com/ios-glyphs/50/4a90e2/python.png" width="30"/>
