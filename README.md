@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&width=435&lines=Just+a+nobody+who+knows+something)](https://git.io/typing-svg)
 - 👋 Hi, I’m @aman333nolawz
 - 👀 I’m interested in python, web development, ML, Cybersecurity & game development(pygame)
 - 🌱 I’m currently learning Cybersecurity
