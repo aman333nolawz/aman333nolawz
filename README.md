@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&width=435&lines=Just+a+nobody+who+knows+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Just+a+nobody+who+knows+sth)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=aman333nolawz&color=blueviolet&style=for-the-badge)
 
