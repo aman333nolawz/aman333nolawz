@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=aman333nolawz&color=blueviolet&style=for-the-badge)
 
 - 👋 Hi, I’m @aman333nolawz
-- 👀 I’m interested in python, web development, ML, Cybersecurity & game development(pygame)
-- 🌱 I’m currently learning Cybersecurity
+- 👀 I’m interested in Python, Web Development, Web3, Cybersecurity, C++, & Rust 
+- 🌱 I’m currently learning about Blockchain and Solidity
 
 ### Languages and Tools
 
