@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=aman333nolawz&color=blueviolet&style=for-the-badge)
 
 - 👋 Hi, I’m @aman333nolawz
-- 👀 I’m interested in Python, Web Development, Web3, Cybersecurity, C++, & Rust 
+- 👀 I’m interested in Binary exploitation, Web Development, Web3, Cybersecurity, C++, & Rust 
 - 🌱 I’m currently learning about Blockchain and Solidity
 
 ### Languages and Tools
