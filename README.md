@@ -8,15 +8,10 @@
 
 ### Languages and Tools
 
-<p align="left"> 
-	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
-	<img src="https://img.icons8.com/color/50/4a90e2/css3.png" width="30"/>
-	<img src="https://img.icons8.com/color/50/fa314a/console.png" width="30"/>
-	<img src="https://img.icons8.com/color/50/4a90e2/html-5--v2.png" width="30"/>
-	<img src="https://img.icons8.com/color/50/fa314a/javascript.png" width="30"/>
-	<img src="https://img.icons8.com/color/50/4a90e2/python.png" width="30"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,nextjs,rust,c,cpp,astro,bash,arch,neovim,git&perline=8)](https://skillicons.dev)
 
-[![aman333nolawz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman333nolawz&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman333nolawz&layout=compact&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+[![aman333nolawz's GitHub stats](https://readme-stats-red-three.vercel.app/api?username=aman333nolawz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://readme-stats-red-three.vercel.app/api/top-langs?username=aman333nolawz&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
