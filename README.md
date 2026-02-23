@@ -12,6 +12,6 @@
 
 ### Stats
 
-[![aman333nolawz's GitHub stats](https://readme-stats-red-three.vercel.app/api?username=aman333nolawz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![aman333nolawz's GitHub stats](./profile/stats.svg)
 
-[![Top Langs](https://readme-stats-red-three.vercel.app/api/top-langs?username=aman333nolawz&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)
