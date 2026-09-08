@@ -12,6 +12,6 @@
 
 ### Stats
 
-![aman333nolawz's GitHub stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aman333nolawz&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=aman333nolawz&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](./profile/top-langs.svg)
