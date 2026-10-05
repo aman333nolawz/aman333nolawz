@@ -8,7 +8,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,nextjs,rust,c,cpp,astro,bash,arch,neovim,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,nextjs,rust,c,cpp,astro,bash,arch,neovim,git,svelte,nix&perline=8)](https://skillicons.dev)
 
 ### Stats
 
